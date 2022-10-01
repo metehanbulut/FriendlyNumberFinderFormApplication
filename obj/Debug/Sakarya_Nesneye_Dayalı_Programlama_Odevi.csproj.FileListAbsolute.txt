@@ -1,0 +1,10 @@
+C:\Users\Metehan\Desktop\Projelerim\C#\Sakarya_Nesneye_Dayalı_Programlama_Odevi\bin\Debug\Sakarya_Nesneye_Dayalı_Programlama_Odevi.exe.config
+C:\Users\Metehan\Desktop\Projelerim\C#\Sakarya_Nesneye_Dayalı_Programlama_Odevi\bin\Debug\Sakarya_Nesneye_Dayalı_Programlama_Odevi.exe
+C:\Users\Metehan\Desktop\Projelerim\C#\Sakarya_Nesneye_Dayalı_Programlama_Odevi\bin\Debug\Sakarya_Nesneye_Dayalı_Programlama_Odevi.pdb
+C:\Users\Metehan\Desktop\Projelerim\C#\Sakarya_Nesneye_Dayalı_Programlama_Odevi\obj\Debug\Sakarya_Nesneye_Dayalı_Programlama_Odevi.csproj.AssemblyReference.cache
+C:\Users\Metehan\Desktop\Projelerim\C#\Sakarya_Nesneye_Dayalı_Programlama_Odevi\obj\Debug\Sakarya_Nesneye_Dayalı_Programlama_Odevi.Form1.resources
+C:\Users\Metehan\Desktop\Projelerim\C#\Sakarya_Nesneye_Dayalı_Programlama_Odevi\obj\Debug\Sakarya_Nesneye_Dayalı_Programlama_Odevi.Properties.Resources.resources
+C:\Users\Metehan\Desktop\Projelerim\C#\Sakarya_Nesneye_Dayalı_Programlama_Odevi\obj\Debug\Sakarya_Nesneye_Dayalı_Programlama_Odevi.csproj.GenerateResource.cache
+C:\Users\Metehan\Desktop\Projelerim\C#\Sakarya_Nesneye_Dayalı_Programlama_Odevi\obj\Debug\Sakarya_Nesneye_Dayalı_Programlama_Odevi.csproj.CoreCompileInputs.cache
+C:\Users\Metehan\Desktop\Projelerim\C#\Sakarya_Nesneye_Dayalı_Programlama_Odevi\obj\Debug\Sakarya_Nesneye_Dayalı_Programlama_Odevi.exe
+C:\Users\Metehan\Desktop\Projelerim\C#\Sakarya_Nesneye_Dayalı_Programlama_Odevi\obj\Debug\Sakarya_Nesneye_Dayalı_Programlama_Odevi.pdb
